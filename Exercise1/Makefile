@@ -8,8 +8,8 @@
 #       # "recipe" (command) to compile hello.c
 #        gcc hello.c
 
-# task1-
+# 2.1
 # Write a rule to compile this file sample.c
 
-# task2-
-# Modify the same rule so that the generated binary is named "task2.bin"
+# 2.2
+# Modify the rule so that the command "make myrule" compiles this same file sample.c and generates a binary named "sample.bin"
