@@ -1,7 +1,7 @@
-**/.out
-**/.o
-**/.so
-**/.a
-**/.lib
-**/.exe
-**/.bin
+*.out
+*.o
+*.so
+*.a
+*.lib
+*.exe
+*.bin
